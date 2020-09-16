@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="facebook_app_id">[APP_ID]</string>
+    <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+    <string name="my_retrofit_basic_application">My Retrofit</string>
+
+    <string name="s_pref_file">chandan.prasad.myretrofitbasicapplication.sh_preference_file</string>
+
+    <string name="s_pref_login_status">chandan.prasad.sh_preference_login_status</string>
+    <string name="s_pref_login_orgname">sh_preference_orgname</string>
+    <string name="s_pref_login_name">sh_preference_name</string>
+    <string name="s_pref_login_email">sh_preference_email</string>
+    <string name="s_pref_login_date">sh_preference_date</string>
+</resources>
